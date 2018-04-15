@@ -7,7 +7,7 @@
 Human Activity Recognition Using Smartphones Data Set 
 (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)
 in order to generate a tidy data set. 
- 2. Code Book *Code_Book.txt* describing the resuling data set *tidy_data_set.txt*.
+ 2. Code Book *Codebook.md* describing the resuling data set *tidy_data_set.txt*.
  
  The code at first downloads and extracts the file into the working folder.
  The data for features and actities labels are read and loaded as character vectors,
